@@ -9,7 +9,7 @@ A través de un agente de Inteligencia Artificial que integra **LLMs** y técnic
 * **Respuestas basadas en stock real**, evitando sugerencias de productos agotados o inexistentes.
 * **Asesoría de tallas y disponibilidad** inmediata mediante un chatbot interactivo en **Streamlit**.
 
-* ## 🛠️ Arquitectura y Tecnologías
+* ##  Arquitectura y Tecnologías
 
 * **LLM & RAG Pipeline:** Generación de respuestas fundamentadas en contexto real.
 * **Vector Database:** [ChromaDB](https://www.trychroma.com/) para búsqueda por similitud semántica.
